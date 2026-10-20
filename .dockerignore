@@ -1,0 +1,11 @@
+.venv
+venv
+__pycahe__
+*.pyc
+.git
+.env
+.idea
+.vscode
+LAB.md
+README.md
+
